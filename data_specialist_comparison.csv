@@ -1,0 +1,661 @@
+image_name,model_name,primary_category,sub_category,main_color,secondary_colors,pattern,sleeve_length,neckline,fit,material_guess,suitable_seasons,style_tags,occasion_tags,raw_json_output
+cottonT008.jpg,llama3.1:8b,上衣,,白色,藍色,條紋,短袖,圓領,常規,棉布或棉混纖維,夏季,"日常休閒, 簡約","上班通勤, 戶外運動","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [""藍色""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉布或棉混纖維"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""戶外運動""]
+}"
+cottonT008.jpg,gemma3:12b,上衣,T恤,白色,藍色,條紋,短袖,圓領,常規,棉,"春季, 夏季, 秋季","日常休閒, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""白色"", ""secondary_colors"": [""藍色""], ""pattern"": ""條紋"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+pants004.jpg,llama3.1:8b,下著,,灰色,,素色,不適用,不適用,常規,棉布或棉混紡,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉布或棉混紡"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+pants004.jpg,gemma3:12b,下著,長褲,灰色,,素色,不適用,不適用,常規,棉,"春季, 秋季, 夏季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""灰色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""秋季"", ""夏季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+shirt004.jpg,llama3.1:8b,上衣,button-up shirt,navy blue,"white, red",格紋,長袖,圓領,常規,棉或棉混,"春季, 秋季","日常休閒, 商務休閒","上班通勤, 商務會議","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""button-up shirt"",
+  ""main_color"": ""navy blue"",
+  ""secondary_colors"": [""white"", ""red""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉或棉混"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""商務會議""]
+}"
+shirt004.jpg,gemma3:12b,上衣,shirt,navy blue,"white, red",格紋,長袖,不適用,常規,cotton blend,"春季, 秋季","日常休閒, 簡約","上班通勤, 約會","{""primary_category"": ""上衣"", ""sub_category"": ""shirt"", ""main_color"": ""navy blue"", ""secondary_colors"": [""white"", ""red""], ""pattern"": ""格紋"", ""sleeve_length"": ""長袖"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""cotton blend"", ""suitable_seasons"": [""春季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""約會""]}"
+shirt002.jpg,llama3.1:8b,上衣,button-up shirt,red,"white, blue",格紋,不適用,不適用,常規,不適用,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""button-up shirt"",
+  ""main_color"": ""red"",
+  ""secondary_colors"": [""white"", ""blue""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""不適用"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+shirt002.jpg,gemma3:12b,上衣,不適用,red,"white, blue",格紋,不適用,不適用,常規,不適用,"春季, 秋季, 夏季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""red"", ""secondary_colors"": [""white"", ""blue""], ""pattern"": ""格紋"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""秋季"", ""夏季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+pants006.jpg,llama3.1:8b,下著,,light gray or beige,"lighter shades, darker shades",素色,不適用,不適用,常規,woven material (cotton or linen),"春季, 夏季","日常休閒, 商務休閒","上班通勤, 戶外運動","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""light gray or beige"",
+  ""secondary_colors"": [""lighter shades"", ""darker shades""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""woven material (cotton or linen)"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""戶外運動""]
+}"
+pants006.jpg,gemma3:12b,下著,長褲,淺灰色,米色,素色,不適用,不適用,常規,棉或亞麻,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 旅行度假, 居家","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""淺灰色"", ""secondary_colors"": [""米色""], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""棉或亞麻"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""旅行度假"", ""居家""]}"
+pants003.jpg,llama3.1:8b,下著,,light tan or beige,,素色,不適用,不適用,常規,,"春季, 夏季",日常休閒,戶外運動,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""light tan or beige"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": """",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+pants003.jpg,gemma3:12b,下著,長褲,米色,,素色,不適用,不適用,常規,不適用,"春季, 秋季, 夏季","日常休閒, 簡約","戶外運動, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""米色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""秋季"", ""夏季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""戶外運動"", ""旅行度假""]}"
+POLO004.jpg,llama3.1:8b,,,灰色,深灰色,素色,短袖,Polo領,常規,,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 戶外運動","{
+  ""primary_category"": """",
+  ""sub_category"": """",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""深灰色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": """",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""戶外運動""]
+}"
+POLO004.jpg,gemma3:12b,上衣,Polo領,灰色,深灰色,素色,短袖,Polo領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 戶外運動, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""Polo領"", ""main_color"": ""灰色"", ""secondary_colors"": [""深灰色""], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""Polo領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""戶外運動"", ""旅行度假""]}"
+cottonT004.jpg,llama3.1:8b,上衣,,黑色,,素色,短袖,圓領,常規,棉質,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""黑色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonT004.jpg,gemma3:12b,上衣,T恤,黑色,,素色,短袖,圓領,常規,棉,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""黑色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+pants001.jpg,llama3.1:8b,下著,,khaki,,素色,不適用,不適用,常規,輕便布料,"春季, 夏季","日常休閒, 商務休閒",上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""khaki"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕便布料"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+pants001.jpg,gemma3:12b,下著,褲,卡其色,,素色,不適用,不適用,常規,輕薄面料,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""褲"", ""main_color"": ""卡其色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""輕薄面料"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""旅行度假""]}"
+shirt001.jpg,llama3.1:8b,上衣,,beige,"brown, white",格紋,短袖,圓領,常規,,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 約會","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""beige"",
+  ""secondary_colors"": [""brown"", ""white""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": """",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會""]
+}"
+shirt001.jpg,gemma3:12b,上衣,不適用,米色,"棕色, 白色",格紋,短袖,不適用,寬鬆,不適用,"春季, 夏季, 秋季","日常休閒, 復古","上班通勤, 約會","{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""米色"", ""secondary_colors"": [""棕色"", ""白色""], ""pattern"": ""格紋"", ""sleeve_length"": ""短袖"", ""neckline"": ""不適用"", ""fit"": ""寬鬆"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""復古""], ""occasion_tags"": [""上班通勤"", ""約會""]}"
+jeans001.jpg,llama3.1:8b,下著,,blue denim,,素色,不適用,不適用,合身,denim,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""blue denim"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""合身"",
+  ""material_guess"": ""denim"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+jeans001.jpg,gemma3:12b,下著,牛仔褲,藍色,,素色,不適用,不適用,合身,牛仔布,"春季, 秋季, 冬季","日常休閒, 簡約","上班通勤, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""牛仔褲"", ""main_color"": ""藍色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""合身"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""旅行度假""]}"
+POLO002.jpg,llama3.1:8b,上衣,,白色,黑色,素色,短袖,Polo領,常規,平織布,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 約會","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [""黑色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""平織布"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會""]
+}"
+POLO002.jpg,gemma3:12b,上衣,Polo領,白色,黑色,條紋,短袖,Polo領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""Polo領"", ""main_color"": ""白色"", ""secondary_colors"": [""黑色""], ""pattern"": ""條紋"", ""sleeve_length"": ""短袖"", ""neckline"": ""Polo領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""約會"", ""居家""]}"
+cottonTV007.jpg,llama3.1:8b,上衣,,白色,,素色,短袖,V領,常規,輕質,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""V領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕質"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonTV007.jpg,gemma3:12b,上衣,T恤,白色,,素色,短袖,V領,常規,輕薄面料,"春季, 夏季, 秋季","日常休閒, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""白色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""V領"", ""fit"": ""常規"", ""material_guess"": ""輕薄面料"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+POLO003.jpg,llama3.1:8b,上衣,,紅色,白色,素色,短袖,Polo領,常規,棉質或混紡,夏季,"日常休閒, 運動機能",戶外運動,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""紅色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質或混紡"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""運動機能""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+POLO003.jpg,gemma3:12b,上衣,Polo領,red,"white, blue",素色,短袖,Polo領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 運動機能, 簡約","上班通勤, 戶外運動, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""Polo領"", ""main_color"": ""red"", ""secondary_colors"": [""white"", ""blue""], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""Polo領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""運動機能"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""戶外運動"", ""居家""]}"
+shirt008.jpg,llama3.1:8b,上衣,,白色,,素色,短袖,圓領,常規,輕質布料,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 商務會議","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕質布料"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""商務會議""]
+}"
+shirt008.jpg,gemma3:12b,上衣,不適用,白,,素色,短袖,方領,常規,輕薄面料,"春季, 夏季",簡約,上班通勤,"{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""白"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""方領"", ""fit"": ""常規"", ""material_guess"": ""輕薄面料"", ""suitable_seasons"": [""春季"", ""夏季""], ""style_tags"": [""簡約""], ""occasion_tags"": [""上班通勤""]}"
+cottonT011.jpg,llama3.1:8b,上衣,短袖T恤或棒球衫,深红色,"白色, 灰色",素色,短袖,圓領,常規,棉布混紡,夏季,"日常休閒, 運動機能",戶外運動,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""短袖T恤或棒球衫"",
+  ""main_color"": ""深红色"",
+  ""secondary_colors"": [""白色"", ""灰色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉布混紡"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""運動機能""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+cottonT011.jpg,gemma3:12b,上衣,T恤,深紅色,"白色, 淺灰色",素色,短袖,圓領,常規,棉混紡,"春季, 夏季, 秋季","日常休閒, 運動機能, 簡約","戶外運動, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""深紅色"", ""secondary_colors"": [""白色"", ""淺灰色""], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉混紡"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""運動機能"", ""簡約""], ""occasion_tags"": [""戶外運動"", ""居家""]}"
+shorts003.jpg,llama3.1:8b,下著,denim shorts,light beige,black,素色,不適用,不適用,常規,denim,"夏季, 秋季",日常休閒,戶外運動,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""denim shorts"",
+  ""main_color"": ""light beige"",
+  ""secondary_colors"": [""black""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""denim"",
+  ""suitable_seasons"": [""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+shorts003.jpg,gemma3:12b,下著,牛仔短褲,淺米色,,素色,不適用,不適用,常規,牛仔,"春季, 夏季, 秋季","日常休閒, 簡約","戶外運動, 旅行度假, 居家","{""primary_category"": ""下著"", ""sub_category"": ""牛仔短褲"", ""main_color"": ""淺米色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""牛仔"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""戶外運動"", ""旅行度假"", ""居家""]}"
+shirt007.jpg,llama3.1:8b,上衣,,blue and white,"blue, white",條紋,長袖,圓領,常規,輕質,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 商務會議","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""blue and white"",
+  ""secondary_colors"": [""blue"", ""white""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕質"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""商務會議""]
+}"
+shirt007.jpg,gemma3:12b,上衣,不適用,藍色,白色,條紋,長袖,不適用,常規,不適用,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""藍色"", ""secondary_colors"": [""白色""], ""pattern"": ""條紋"", ""sleeve_length"": ""長袖"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]}"
+pants008.jpg,llama3.1:8b,下著,,blue,,素色,不適用,不適用,常規,smooth fabric,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 商務會議","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""blue"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""smooth fabric"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""商務會議""]
+}"
+pants008.jpg,gemma3:12b,下著,長褲,藍色,,素色,不適用,不適用,常規,不明,"春季, 秋季, 冬季","簡約, 日常休閒","上班通勤, 居家","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""藍色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""不明"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""簡約"", ""日常休閒""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+cottonT006.jpg,llama3.1:8b,上衣,,白色,,條紋,短袖,圓領,常規,棉質或聚合物,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質或聚合物"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonT006.jpg,gemma3:12b,上衣,T恤,白色,黑色,條紋,短袖,圓領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""白色"", ""secondary_colors"": [""黑色""], ""pattern"": ""條紋"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+cottonT010.jpg,llama3.1:8b,上衣,短袖T恤或棒球衫,棕色,深棕色,混紡,短袖,圓領,常規,軟質舒適材質,"春季, 夏季","日常休閒, 運動機能","上班通勤, 戶外運動","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""短袖T恤或棒球衫"",
+  ""main_color"": ""棕色"",
+  ""secondary_colors"": [""深棕色""],
+  ""pattern"": ""混紡"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""軟質舒適材質"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""運動機能""],
+  ""occasion_tags"": [""上班通勤"", ""戶外運動""]
+}"
+cottonT010.jpg,gemma3:12b,上衣,T恤,淺棕色,深棕色,迷彩,短袖,圓領,常規,棉,"春季, 夏季, 秋季","日常休閒, 運動機能, 簡約","戶外運動, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""淺棕色"", ""secondary_colors"": [""深棕色""], ""pattern"": ""迷彩"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""運動機能"", ""簡約""], ""occasion_tags"": [""戶外運動"", ""居家""]}"
+POLO001.jpg,llama3.1:8b,上衣,,黑色,白色,波點,短袖,Polo領,常規,棉布或棉混紡,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""黑色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""波點"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉布或棉混紡"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+POLO001.jpg,gemma3:12b,上衣,Polo領,黑色,白色,波點,短袖,Polo領,常規,棉,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""Polo領"", ""main_color"": ""黑色"", ""secondary_colors"": [""白色""], ""pattern"": ""波點"", ""sleeve_length"": ""短袖"", ""neckline"": ""Polo領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+cottonT003.jpg,llama3.1:8b,,,red,,素色,短袖,圓領,常規,standard weight fabric,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": """",
+  ""sub_category"": """",
+  ""main_color"": ""red"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""standard weight fabric"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonT003.jpg,gemma3:12b,上衣,T恤,紅色,,素色,短袖,圓領,常規,棉,"春季, 夏季, 秋季","日常休閒, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""紅色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+pants002.jpg,llama3.1:8b,下著,,navy blue,,素色,不適用,不適用,常規,cotton or synthetic fibers,"春季, 夏季, 秋季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""navy blue"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""cotton or synthetic fibers"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+pants002.jpg,gemma3:12b,下著,長褲,navy blue,,素色,不適用,不適用,常規,cotton or synthetic fibers,"春季, 秋季, 冬季","日常休閒, 簡約","居家, 戶外運動","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""navy blue"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""cotton or synthetic fibers"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""戶外運動""]}"
+jeans002.jpg,llama3.1:8b,下著,,深藍色,,素色,不適用,不適用,常規, denim,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""深藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": "" denim"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+jeans002.jpg,gemma3:12b,下著,牛仔褲,深藍色,,素色,不適用,不適用,常規,牛仔布,"春季, 秋季, 冬季","日常休閒, 簡約","上班通勤, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""牛仔褲"", ""main_color"": ""深藍色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""旅行度假""]}"
+jeans003.jpg,llama3.1:8b,下著,,blue,black,素色,不適用,不適用,常規,denim,"春季, 夏季, 秋季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""blue"",
+  ""secondary_colors"": [""black""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""denim"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+jeans003.jpg,gemma3:12b,下著,牛仔褲,藍色,"白色, 淺灰色",素色,不適用,不適用,常規,牛仔布,"春季, 秋季, 冬季","日常休閒, 簡約","上班通勤, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""牛仔褲"", ""main_color"": ""藍色"", ""secondary_colors"": [""白色"", ""淺灰色""], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""旅行度假""]}"
+wideT001.jpg,llama3.1:8b,上衣,,bright yellow,,素色,短袖,圓領,常規,solid fabric,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""bright yellow"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""solid fabric"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+wideT001.jpg,gemma3:12b,上衣,T恤,黃色,,素色,短袖,圓領,常規,棉,"春季, 夏季","日常休閒, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""黃色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+POLO005.jpg,llama3.1:8b,上衣,,light beige or tan,,素色,短袖,Polo領,常規,,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 戶外運動","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""light beige or tan"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": """",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""戶外運動""]
+}"
+POLO005.jpg,gemma3:12b,上衣,Polo領,淺米色,米色,素色,短袖,Polo領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""Polo領"", ""main_color"": ""淺米色"", ""secondary_colors"": [""米色""], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""Polo領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+pants005.jpg,llama3.1:8b,下著,,light gray or beige,"lighter shades, darker shades",素色,不適用,不適用,常規,heathered fabric,"春季, 夏季, 秋季","正式, 商務休閒","上班通勤, 商務會議","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""light gray or beige"",
+  ""secondary_colors"": [""lighter shades"", ""darker shades""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""heathered fabric"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""正式"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""商務會議""]
+}"
+pants005.jpg,gemma3:12b,下著,長褲,淺灰色,米色,素色,不適用,不適用,常規,棉,"春季, 秋季, 冬季","簡約, 商務休閒, 正式","上班通勤, 商務會議","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""淺灰色"", ""secondary_colors"": [""米色""], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""簡約"", ""商務休閒"", ""正式""], ""occasion_tags"": [""上班通勤"", ""商務會議""]}"
+cottonT002.jpg,llama3.1:8b,上衣,,黃色,,素色,短袖,圓領,常規,輕質布料,夏季,"日常休閒, 商務休閒","上班通勤, 戶外運動","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""黃色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕質布料"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""戶外運動""]
+}"
+cottonT002.jpg,gemma3:12b,上衣,T恤,黃色,,素色,短袖,圓領,常規,輕薄面料,"春季, 夏季","日常休閒, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""黃色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""輕薄面料"", ""suitable_seasons"": [""春季"", ""夏季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+shirt005.jpg,llama3.1:8b,上衣,button-up shirt,blue,white,格紋,長袖,圓領,常規,不適用,"春季, 秋季","日常休閒, 商務休閒","上班通勤, 約會","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""button-up shirt"",
+  ""main_color"": ""blue"",
+  ""secondary_colors"": [""white""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""不適用"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會""]
+}"
+shirt005.jpg,gemma3:12b,上衣,不適用,blue,white,格紋,長袖,不適用,常規,不適用,"春季, 秋季","日常休閒, 商務休閒","上班通勤, 約會","{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""blue"", ""secondary_colors"": [""white""], ""pattern"": ""格紋"", ""sleeve_length"": ""長袖"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""秋季""], ""style_tags"": [""日常休閒"", ""商務休閒""], ""occasion_tags"": [""上班通勤"", ""約會""]}"
+cottonT009.jpg,llama3.1:8b,上衣,T-shirt,橙色,"白色, 藍色",條紋,短袖,圓領,常規,棉質,夏季,"日常休閒, 簡約",上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T-shirt"",
+  ""main_color"": ""橙色"",
+  ""secondary_colors"": [""白色"", ""藍色""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonT009.jpg,gemma3:12b,上衣,T-shirt,orange,"white, blue",條紋,短袖,圓領,常規,cotton,"春季, 夏季","日常休閒, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""T-shirt"", ""main_color"": ""orange"", ""secondary_colors"": [""white"", ""blue""], ""pattern"": ""條紋"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""cotton"", ""suitable_seasons"": [""春季"", ""夏季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+cottonT001.jpg,llama3.1:8b,上衣,,白色,,素色,短袖,圓領,常規,輕質布料,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕質布料"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonT001.jpg,gemma3:12b,上衣,T恤,白色,,素色,短袖,圓領,常規,棉,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""T恤"", ""main_color"": ""白色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+jeans004.jpg,llama3.1:8b,下著,,blue,black,素色,不適用,不適用,合身,denim,"春季, 夏季, 秋季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""blue"",
+  ""secondary_colors"": [""black""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""合身"",
+  ""material_guess"": ""denim"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+jeans004.jpg,gemma3:12b,下著,牛仔褲,藍色,淺藍色,素色,不適用,不適用,合身,牛仔布,"春季, 秋季, 冬季","日常休閒, 簡約","上班通勤, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""牛仔褲"", ""main_color"": ""藍色"", ""secondary_colors"": [""淺藍色""], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""合身"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""旅行度假""]}"
+cottonhat002.jpg,llama3.1:8b,,,gray,,素色,不適用,連帽,常規,cotton or cotton blend,"春季, 夏季","日常休閒, 街頭潮流",上班通勤,"{
+  ""primary_category"": """",
+  ""sub_category"": """",
+  ""main_color"": ""gray"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""連帽"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""cotton or cotton blend"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""街頭潮流""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonhat002.jpg,gemma3:12b,上衣,外套,gray,,素色,長袖,連帽,寬鬆,cotton blend,"春季, 秋季, 冬季","日常休閒, 街頭潮流, 簡約","居家, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""外套"", ""main_color"": ""gray"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""長袖"", ""neckline"": ""連帽"", ""fit"": ""寬鬆"", ""material_guess"": ""cotton blend"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""街頭潮流"", ""簡約""], ""occasion_tags"": [""居家"", ""旅行度假""]}"
+cottonT005.jpg,llama3.1:8b,,,白,藍,條紋,短袖,不適用,常規,,夏季,"日常休閒, 商務休閒",上班通勤,"{
+  ""primary_category"": """",
+  ""sub_category"": """",
+  ""main_color"": ""白"",
+  ""secondary_colors"": [""藍""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": """",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+cottonT005.jpg,gemma3:12b,上衣,T-shirt,white,blue,條紋,短袖,圓領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""T-shirt"", ""main_color"": ""white"", ""secondary_colors"": [""blue""], ""pattern"": ""條紋"", ""sleeve_length"": ""短袖"", ""neckline"": ""圓領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+shorts002.jpg,llama3.1:8b,下著,,藍色,灰色,素色,不適用,不適用,常規,伸縮布,夏季,"日常休閒, 運動機能",戶外運動,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [""灰色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""伸縮布"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""運動機能""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+shorts002.jpg,gemma3:12b,下著,短褲,藍色,,素色,不適用,不適用,常規,牛仔布,"春季, 夏季, 秋季","日常休閒, 運動機能","戶外運動, 旅行度假","{""primary_category"": ""下著"", ""sub_category"": ""短褲"", ""main_color"": ""藍色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""運動機能""], ""occasion_tags"": [""戶外運動"", ""旅行度假""]}"
+shirt003.jpg,llama3.1:8b,上衣,button-up shirt,blue,white,格紋,長袖,圓領,常規,不適用,"春季, 秋季","日常休閒, 商務休閒","上班通勤, 約會","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""button-up shirt"",
+  ""main_color"": ""blue"",
+  ""secondary_colors"": [""white""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""不適用"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會""]
+}"
+shirt003.jpg,gemma3:12b,上衣,不適用,blue,white,格紋,長袖,不適用,常規,不適用,"春季, 秋季","日常休閒, 商務休閒","上班通勤, 約會","{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""blue"", ""secondary_colors"": [""white""], ""pattern"": ""格紋"", ""sleeve_length"": ""長袖"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""秋季""], ""style_tags"": [""日常休閒"", ""商務休閒""], ""occasion_tags"": [""上班通勤"", ""約會""]}"
+jeans005.jpg,llama3.1:8b,下著,bottoms,deep blue,"slightly lighter shade on the inner thigh area, the pockets",素色,不適用,不適用,常規,denim fabric,"春季, 夏季, 秋季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""bottoms"",
+  ""main_color"": ""deep blue"",
+  ""secondary_colors"": [""slightly lighter shade on the inner thigh area"", ""the pockets""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""denim fabric"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+jeans005.jpg,gemma3:12b,下著,pants,深藍色,淺藍色,素色,不適用,不適用,常規,牛仔布,"春季, 秋季","日常休閒, 簡約","上班通勤, 居家","{""primary_category"": ""下著"", ""sub_category"": ""pants"", ""main_color"": ""深藍色"", ""secondary_colors"": [""淺藍色""], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+cottonhat001.jpg,llama3.1:8b,上衣,,灰色,黑色,素色,長袖,連帽,寬鬆,棉質,"秋季, 冬季","日常休閒, 運動機能",戶外運動,"{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""黑色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""連帽"",
+  ""fit"": ""寬鬆"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""秋季"", ""冬季""],
+  ""style_tags"": [""日常休閒"", ""運動機能""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+cottonhat001.jpg,gemma3:12b,上衣,外套,灰色,深灰色,素色,長袖,連帽,寬鬆,不適用,"春季, 秋季, 冬季","日常休閒, 運動機能, 簡約","戶外運動, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""外套"", ""main_color"": ""灰色"", ""secondary_colors"": [""深灰色""], ""pattern"": ""素色"", ""sleeve_length"": ""長袖"", ""neckline"": ""連帽"", ""fit"": ""寬鬆"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""], ""style_tags"": [""日常休閒"", ""運動機能"", ""簡約""], ""occasion_tags"": [""戶外運動"", ""居家""]}"
+shorts001.jpg,llama3.1:8b,下著,,藍色,,素色,短袖,不適用,常規,輕質布料,夏季,"日常休閒, 簡約",戶外運動,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""輕質布料"",
+  ""suitable_seasons"": [""夏季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""戶外運動""]
+}"
+shorts001.jpg,gemma3:12b,下著,短褲,藍色,,素色,不適用,不適用,常規,牛仔布,"春季, 夏季, 秋季","日常休閒, 簡約","戶外運動, 旅行度假, 居家","{""primary_category"": ""下著"", ""sub_category"": ""短褲"", ""main_color"": ""藍色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""牛仔布"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""戶外運動"", ""旅行度假"", ""居家""]}"
+shirt006.jpg,llama3.1:8b,上衣,,navy blue,,素色,短袖,圓領,常規,cotton or cotton blend,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 約會","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""navy blue"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""cotton or cotton blend"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會""]
+}"
+shirt006.jpg,gemma3:12b,上衣,不適用,navy blue,,素色,短袖,不適用,常規,cotton blend,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 居家","{""primary_category"": ""上衣"", ""sub_category"": ""不適用"", ""main_color"": ""navy blue"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""cotton blend"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""約會"", ""居家""]}"
+pants007.jpg,llama3.1:8b,下著,,beige,,素色,不適用,不適用,合身,cotton or cotton blend,"春季, 夏季",日常休閒,上班通勤,"{
+  ""primary_category"": ""下著"",
+  ""sub_category"": """",
+  ""main_color"": ""beige"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""合身"",
+  ""material_guess"": ""cotton or cotton blend"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒""],
+  ""occasion_tags"": [""上班通勤""]
+}"
+pants007.jpg,gemma3:12b,下著,長褲,米色,,素色,不適用,不適用,常規,棉,"春季, 秋季, 夏季",簡約,"上班通勤, 居家","{""primary_category"": ""下著"", ""sub_category"": ""長褲"", ""main_color"": ""米色"", ""secondary_colors"": [], ""pattern"": ""素色"", ""sleeve_length"": ""不適用"", ""neckline"": ""不適用"", ""fit"": ""常規"", ""material_guess"": ""棉"", ""suitable_seasons"": [""春季"", ""秋季"", ""夏季""], ""style_tags"": [""簡約""], ""occasion_tags"": [""上班通勤"", ""居家""]}"
+POLO006.jpg,llama3.1:8b,上衣,,heather gray,"yellow, white",波點,短袖,Polo領,常規,不適用,"春季, 夏季","日常休閒, 商務休閒","上班通勤, 約會","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": """",
+  ""main_color"": ""heather gray"",
+  ""secondary_colors"": [""yellow"", ""white""],
+  ""pattern"": ""波點"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""不適用"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會""]
+}"
+POLO006.jpg,gemma3:12b,上衣,Polo領,灰色,"黃色, 白色",素色,短袖,Polo領,常規,不適用,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假","{""primary_category"": ""上衣"", ""sub_category"": ""Polo領"", ""main_color"": ""灰色"", ""secondary_colors"": [""黃色"", ""白色""], ""pattern"": ""素色"", ""sleeve_length"": ""短袖"", ""neckline"": ""Polo領"", ""fit"": ""常規"", ""material_guess"": ""不適用"", ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""], ""style_tags"": [""日常休閒"", ""簡約""], ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]}"

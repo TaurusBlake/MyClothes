@@ -1,0 +1,9 @@
+You are a data processing expert. Your task is to read the following clothing description text and convert it into a structured JSON object based on the provided schema and constraints.
+
+### DESCRIPTION TEXT ###
+{description_from_llava}
+
+### JSON SCHEMA AND CONSTRAINTS ###
+{schema_and_constraints}
+
+Now, generate the JSON object.
