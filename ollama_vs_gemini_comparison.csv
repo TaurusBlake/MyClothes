@@ -1,0 +1,949 @@
+image_name,method,processing_time_seconds,primary_category,sub_category,main_color,secondary_colors,pattern,sleeve_length,neckline,fit,material_guess,suitable_seasons,style_tags,occasion_tags,raw_json_output
+cottonT008.jpg,ollama_chain,61.92,N/A,N/A,N/A,N/A,striped,short,crew,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""white"", ""pattern"": ""striped"", ""stripe_location"": ""chest"", ""stripe_color"": ""blue"", ""sleeve_length"": ""short"", ""neckline"": ""crew"", ""fabric"": ""cotton blend"", ""style"": ""casual"", ""graphics"": ""none"", ""views"": [""front"", ""back""]}"
+cottonT008.jpg,gemini_api,12.13,上衣,T恤,白色,藍色,條紋,短袖,圓領,寬鬆,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 復古","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [""藍色""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""寬鬆"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""約會"", ""旅行度假"", ""居家""]
+}"
+pants004.jpg,ollama_chain,61.41,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""trousers"", ""color"": ""gray"", ""style"": ""straight cut"", ""fabric"": [""cotton"", ""cotton blend""], ""features"": [""flat front waistband"", ""pockets""], ""pattern"": ""none"", ""suitable_for"": [""casual occasions""]}"
+pants004.jpg,gemini_api,14.77,下著,西裝褲,灰色,,素色,不適用,不適用,常規,聚酯纖維,"春季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""西裝褲"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""聚酯纖維"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+shirt004.jpg,ollama_chain,74.16,N/A,N/A,N/A,"white, red",plaid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""shirt"",
+  ""category"": ""top"",
+  ""style"": ""casual"",
+  ""color"": ""navy blue"",
+  ""pattern"": ""plaid"",
+  ""secondary_colors"": [""white"", ""red""],
+  ""sleeves"": ""long sleeve"",
+  ""closure_type"": ""button-up"",
+  ""collar_type"": ""collared"",
+  ""details"": {
+    ""pockets"": false,
+    ""embellishments"": false
+  },
+  ""fabric"": ""cotton blend (possible)""
+}"
+shirt004.jpg,gemini_api,20.25,上衣,襯衫,深藍色,"白色, 紅色",格紋,長袖,Polo領,常規,棉質,"春季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""深藍色"",
+  ""secondary_colors"": [""白色"", ""紅色""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+shirt002.jpg,ollama_chain,53.27,N/A,shirt,N/A,N/A,plaid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""category"": ""top"", ""sub_category"": ""shirt"", ""color"": ""red"", ""pattern"": ""plaid"", ""style"": ""casual"", ""accents"": [""white"", ""blue""], ""features"": []}"
+shirt002.jpg,gemini_api,18.29,上衣,襯衫,紅色,"藍色, 白色",格紋,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""紅色"",
+  ""secondary_colors"": [
+    ""藍色"",
+    ""白色""
+  ],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""夏季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""簡約""
+  ],
+  ""occasion_tags"": [
+    ""上班通勤"",
+    ""約會"",
+    ""旅行度假""
+  ]
+}"
+pants006.jpg,ollama_chain,92.14,N/A,N/A,N/A,N/A,none,N/A,N/A,straight,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""trousers"",
+  ""color"": [""light gray"", ""beige""],
+  ""pattern"": ""none"",
+  ""style"": ""classic"",
+  ""fit"": ""straight"",
+  ""waistband"": ""drawstring"",
+  ""fabric"": [""cotton"", ""linen""],
+  ""details"": [
+    ""two side pockets"",
+    ""slight taper at ankles"",
+    ""heathered effect""
+  ],
+  ""description"": ""Simple and functional trousers with a focus on comfort and versatility."",
+  ""suitable_for"": [""various occasions"", ""various settings""]
+}"
+pants006.jpg,gemini_api,13.41,下著,西裝褲,灰色,白色,格紋,不適用,不適用,常規,聚酯纖維,"春季, 秋季","商務休閒, 日常休閒, 簡約, 復古","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""西裝褲"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""聚酯纖維"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""商務休閒"", ""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+pants003.jpg,ollama_chain,58.43,N/A,N/A,N/A,N/A,none,N/A,N/A,adjustable,N/A,N/A,N/A,N/A,"{""product_type"": ""pants"", ""style"": ""cargo"", ""color"": ""khaki"", ""fabric"": null, ""pattern"": ""none"", ""features"": [""drawstring waistband"", ""multiple pockets""], ""fit"": ""adjustable"", ""intended_use"": ""casual""}"
+pants003.jpg,gemini_api,17.31,下著,工裝褲,卡其色,黑色,素色,不適用,不適用,常規,尼龍,"春季, 秋季","日常休閒, 街頭潮流, 運動機能","戶外運動, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""工裝褲"",
+  ""main_color"": ""卡其色"",
+  ""secondary_colors"": [
+    ""黑色""
+  ],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""尼龍"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""街頭潮流"",
+    ""運動機能""
+  ],
+  ""occasion_tags"": [
+    ""戶外運動"",
+    ""旅行度假"",
+    ""居家""
+  ]
+}"
+POLO004.jpg,ollama_chain,72.43,N/A,N/A,N/A,dark gray,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""polo shirt"", ""sleeves"": ""short"", ""color"": ""gray"", ""secondary_colors"": [""dark gray""], ""pattern"": ""none"", ""closure_type"": ""two-button"", ""style"": ""casual"", ""details"": [""logo on left chest (mountain peak design)"", ""smooth fabric""], ""suitable_for"": [""formal"", ""informal""]}"
+POLO004.jpg,gemini_api,18.59,上衣,Polo衫,灰色,深藍色,素色,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假, 戶外運動","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""Polo衫"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""深藍色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""戶外運動""]
+}"
+cottonT004.jpg,ollama_chain,58.69,N/A,N/A,N/A,N/A,none,short,crew,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""black"", ""style"": ""plain"", ""sleeve_length"": ""short"", ""neckline"": ""crew"", ""fabric"": ""cotton"", ""pattern"": ""none"", ""embellishments"": ""none""}"
+cottonT004.jpg,gemini_api,11.91,上衣,T恤,黑色,,素色,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 街頭潮流","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""黑色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""街頭潮流""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+pants001.jpg,ollama_chain,63.73,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""pants"", ""color"": ""khaki"", ""style"": ""straight-cut"", ""fabric"": ""lightweight"", ""closure_type"": ""elastic waistband with drawstrings"", ""pockets"": [""two front pockets"", ""coin pocket (right)""], ""suitable_for"": [""casual wear"", ""business casual""]}"
+pants001.jpg,gemini_api,15.54,下著,休閒褲,卡其色,,素色,不適用,不適用,常規,棉質,"春季, 秋季","日常休閒, 簡約","上班通勤, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""休閒褲"",
+  ""main_color"": ""卡其色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""旅行度假"", ""居家""]
+}"
+shirt001.jpg,ollama_chain,68.67,N/A,N/A,N/A,N/A,plaid,short-sleeved,collared,relaxed,N/A,N/A,N/A,N/A,"{""product_type"": ""shirt"", ""style"": ""button-up"", ""sleeve_length"": ""short-sleeved"", ""pattern"": ""plaid"", ""colors"": [""beige"", ""brown"", ""white""], ""neckline"": ""collared"", ""fit"": ""relaxed"", ""pockets"": ""none"", ""suitable_for"": [""casual"", ""semi-formal""], ""target_gender"": ""male"", ""design_inspiration"": ""traditional""}"
+shirt001.jpg,gemini_api,11.42,上衣,襯衫,米色,"灰色, 棕色",格紋,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 復古","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""米色"",
+  ""secondary_colors"": [""灰色"", ""棕色""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+jeans001.jpg,ollama_chain,62.00,N/A,N/A,N/A,N/A,none,N/A,N/A,slim,N/A,N/A,N/A,N/A,"{""product_type"": ""jeans"", ""color"": ""blue"", ""material"": ""denim"", ""style"": ""straight-cut"", ""fit"": ""slim"", ""pocket_style"": ""five-pocket"", ""details"": [""coin pockets"", ""contrasting waistband""], ""pattern"": ""none"", ""additional_colors"": ""none"", ""image_background"": ""black""}"
+jeans001.jpg,gemini_api,12.54,下著,牛仔褲,藍色,,素色,不適用,不適用,合身,丹寧,"春季, 夏季, 秋季, 冬季","日常休閒, 簡約, 街頭潮流","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""牛仔褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""合身"",
+  ""material_guess"": ""丹寧"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季"", ""冬季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""街頭潮流""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+POLO002.jpg,ollama_chain,61.24,N/A,N/A,N/A,N/A,stripes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""polo shirt"", ""color"": ""white"", ""pattern"": ""stripes"", ""stripe_location"": [""sleeves"", ""collar""], ""secondary_color"": ""black"", ""features"": [""logo"", ""two-button placket""], ""logo_location"": ""left chest"", ""style"": ""casual"", ""suitable_for"": [""formal"", ""informal""]}"
+POLO002.jpg,gemini_api,13.05,上衣,Polo衫,白色,"黑色, 藍色",素色,短袖,Polo領,常規,棉質,"春季, 夏季","日常休閒, 商務休閒, 運動機能, 簡約","上班通勤, 約會, 戶外運動, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""Polo衫"",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [""黑色"", ""藍色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""運動機能"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""戶外運動"", ""旅行度假""]
+}"
+cottonTV007.jpg,ollama_chain,58.23,N/A,N/A,N/A,N/A,solid,short sleeve,v-neck,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""white"", ""neckline"": ""v-neck"", ""sleeve_length"": ""short sleeve"", ""pattern"": ""solid"", ""material"": ""lightweight fabric"", ""style"": ""classic"", ""features"": [""casual wear"", ""layering""]}"
+cottonTV007.jpg,gemini_api,22.28,上衣,T恤,米白色,,素色,短袖,V領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 商務休閒","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""米白色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""V領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+POLO003.jpg,ollama_chain,70.75,N/A,N/A,N/A,N/A,none,short,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""polo shirt"",
+  ""color"": ""red"",
+  ""sleeve_length"": ""short"",
+  ""collar"": ""with two white stripes on each side"",
+  ""pattern"": ""none"",
+  ""details"": [
+    ""button-up front"",
+    ""two visible buttons"",
+    ""small logo/emblem on left chest (blue and white, details unclear)""
+  ],
+  ""style"": ""casual, sporty""
+}"
+POLO003.jpg,gemini_api,12.66,上衣,Polo衫,紅色,"白色, 藍色",素色,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約, 運動機能","上班通勤, 約會, 旅行度假, 戶外運動","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""Polo衫"",
+  ""main_color"": ""紅色"",
+  ""secondary_colors"": [""白色"", ""藍色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約"", ""運動機能""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""戶外運動""]
+}"
+shirt008.jpg,ollama_chain,68.02,N/A,N/A,N/A,N/A,solid,short,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""shirt"",
+  ""style"": ""button-up"",
+  ""color"": ""white"",
+  ""sleeve_length"": ""short"",
+  ""pattern"": ""solid"",
+  ""details"": [
+    ""collar"",
+    ""two chest pockets""
+  ],
+  ""fabric_weight"": ""lightweight"",
+  ""suitable_for"": [
+    ""casual wear"",
+    ""uniform""
+  ],
+  ""formality"": [
+    ""formal"",
+    ""semi-formal""
+  ]
+}"
+shirt008.jpg,gemini_api,20.26,上衣,襯衫,白色,,素色,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+cottonT011.jpg,ollama_chain,112.93,N/A,N/A,N/A,N/A,N/A,short sleeve,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""baseball jersey/t-shirt"",
+  ""color"": ""dark red"",
+  ""color_alternatives"": [""maroon"", ""burgundy""],
+  ""style"": ""casual/sporty"",
+  ""sleeve_length"": ""short sleeve"",
+  ""fabric_texture"": ""soft"",
+  ""design_features"": [
+    ""heathered effect"",
+    ""vertical contrasting panel (white/light gray)"",
+    ""ribbed collar"",
+    ""ribbed sleeve edges""
+  ],
+  ""embellishments"": ""none"",
+  ""intended_use"": ""casual wear, athletic wear"",
+  ""material_composition_likely"": ""cotton blend""
+}"
+cottonT011.jpg,gemini_api,18.52,上衣,T恤,黑色,"棕色, 白色",印花,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 街頭潮流, 簡約","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""黑色"",
+  ""secondary_colors"": [""棕色"", ""白色""],
+  ""pattern"": ""印花"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""街頭潮流"", ""簡約""],
+  ""occasion_tags"": [""約會"", ""旅行度假"", ""居家""]
+}"
+shorts003.jpg,ollama_chain,72.26,N/A,denim shorts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""shorts"",
+  ""category"": ""bottoms"",
+  ""sub_category"": ""denim shorts"",
+  ""color"": ""beige"",
+  ""wash"": ""light wash"",
+  ""details"": [
+    ""distressed"",
+    ""belt loops"",
+    ""pockets (two on each side)""
+  ],
+  ""style"": ""casual"",
+  ""functionality"": ""everyday wear"",
+  ""season"": ""warm weather""
+}"
+shorts003.jpg,gemini_api,15.64,下著,短褲,卡其色,黑色,素色,不適用,不適用,寬鬆,尼龍,"春季, 夏季","日常休閒, 運動機能, 街頭潮流","戶外運動, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""短褲"",
+  ""main_color"": ""卡其色"",
+  ""secondary_colors"": [
+    ""黑色""
+  ],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""寬鬆"",
+  ""material_guess"": ""尼龍"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""夏季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""運動機能"",
+    ""街頭潮流""
+  ],
+  ""occasion_tags"": [
+    ""戶外運動"",
+    ""旅行度假"",
+    ""居家""
+  ]
+}"
+shirt007.jpg,ollama_chain,64.01,N/A,N/A,N/A,N/A,vertical stripes,long-sleeve,collared,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""shirt"", ""style"": ""button-up"", ""sleeve_length"": ""long-sleeve"", ""pattern"": ""vertical stripes"", ""colors"": [""blue"", ""white""], ""neckline"": ""collared"", ""fabric_weight"": ""lightweight"", ""suitable_for"": [""casual"", ""business casual""], ""details"": [""no logos"", ""no embellishments""]}"
+shirt007.jpg,gemini_api,14.26,上衣,襯衫,藍色,白色,條紋,長袖,Polo領,常規,棉質,"春季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+pants008.jpg,ollama_chain,68.47,N/A,N/A,N/A,N/A,solid,N/A,N/A,snug,N/A,N/A,N/A,N/A,"{""product_type"": ""trousers"", ""gender"": ""men"", ""color"": ""blue"", ""pattern"": ""solid"", ""fabric"": ""smooth"", ""fit"": ""snug"", ""leg_style"": ""straight"", ""style"": ""classic"", ""intended_use"": [""work"", ""casual""]}"
+pants008.jpg,gemini_api,17.53,下著,休閒褲,藍色,,素色,不適用,不適用,常規,棉質混紡,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""休閒褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質混紡"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+cottonT006.jpg,ollama_chain,58.39,N/A,N/A,N/A,N/A,horizontal stripes,N/A,crew neck,unknown,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""white"", ""pattern"": ""horizontal stripes"", ""neckline"": ""crew neck"", ""sleeves"": ""short sleeves"", ""style"": ""casual"", ""material"": ""unknown"", ""fit"": ""unknown"", ""embellishments"": ""none"", ""background_color"": ""black""}"
+cottonT006.jpg,gemini_api,17.12,上衣,T恤,灰色,白色,條紋,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+cottonT010.jpg,ollama_chain,71.38,N/A,jersey,N/A,N/A,heathered,short,crew,N/A,N/A,N/A,N/A,N/A,"{""category"": ""clothing"", ""sub_category"": ""jersey"", ""style"": ""casual"", ""fabric"": ""heathered"", ""color"": ""brown"", ""sleeve_length"": ""short"", ""neckline"": ""crew"", ""pattern"": ""heathered"", ""details"": [""contrast sleeves"", ""contrast collar""], ""suitable_for"": [""everyday wear"", ""sports team uniform""]}"
+cottonT010.jpg,gemini_api,19.21,上衣,T恤,卡其色,灰色,素色,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 復古","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""卡其色"",
+  ""secondary_colors"": [""灰色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""約會"", ""旅行度假"", ""居家""]
+}"
+POLO001.jpg,ollama_chain,67.06,N/A,N/A,N/A,N/A,dot,short,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""polo shirt"",
+  ""color"": ""black"",
+  ""pattern"": ""dot"",
+  ""sleeve_length"": ""short"",
+  ""collar_style"": ""flat knit"",
+  ""front_closure"": ""button-up"",
+  ""material"": ""cotton blend"",
+  ""style"": ""classic"",
+  ""suitable_for"": [""casual wear"", ""uniform""]
+}"
+POLO001.jpg,gemini_api,15.86,上衣,Polo衫,黑色,灰色,波點,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""Polo衫"",
+  ""main_color"": ""黑色"",
+  ""secondary_colors"": [""灰色""],
+  ""pattern"": ""波點"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+cottonT003.jpg,ollama_chain,53.53,N/A,N/A,N/A,N/A,plain,short sleeve,crew neck,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""red"", ""neckline"": ""crew neck"", ""sleeve_length"": ""short sleeve"", ""pattern"": ""plain"", ""fabric_weight"": ""standard"", ""style"": ""classic"", ""additional_colors"": ""none""}"
+cottonT003.jpg,gemini_api,13.59,上衣,T恤,磚紅色,,素色,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""磚紅色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+pants002.jpg,ollama_chain,71.71,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""sweatpants"", ""color"": ""navy blue"", ""fabric_composition"": [""cotton"", ""synthetic fibers""], ""features"": [""elastic waistband"", ""drawstring closures"", ""pockets""], ""style"": ""casual"", ""pattern"": ""none"", ""usage"": ""everyday wear"", ""details"": ""functional pockets""}"
+pants002.jpg,gemini_api,16.61,下著,休閒褲,藍色,,素色,不適用,不適用,常規,棉質,"春季, 秋季","日常休閒, 簡約","上班通勤, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""休閒褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""旅行度假"", ""居家""]
+}"
+jeans002.jpg,ollama_chain,75.68,N/A,N/A,N/A,N/A,plain,N/A,N/A,slim,N/A,N/A,N/A,N/A,"{""product_type"": ""jeans"", ""color"": ""blue"", ""fabric_type"": ""denim"", ""style"": ""straight-cut"", ""pocket_style"": ""five-pocket"", ""pattern"": ""plain"", ""fit"": ""slim"", ""brand"": ""unbranded"", ""details"": []}"
+jeans002.jpg,gemini_api,13.39,下著,牛仔褲,藍色,,素色,不適用,不適用,常規,丹寧,"春季, 夏季, 秋季, 冬季","日常休閒, 簡約, 街頭潮流","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""牛仔褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""丹寧"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季"", ""冬季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""街頭潮流""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+jeans003.jpg,ollama_chain,66.64,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""jeans"", ""color"": ""blue"", ""material"": ""denim"", ""style"": ""straight-cut"", ""pocket_style"": ""five-pocket"", ""details"": [""coin pockets""], ""waistband_color"": ""light denim (possibly white or light grey)"", ""pattern"": ""none"", ""image_background"": ""black""}"
+jeans003.jpg,gemini_api,14.60,下著,牛仔褲,藍色,,素色,不適用,不適用,常規,丹寧,"春季, 夏季, 秋季, 冬季","日常休閒, 簡約, 復古","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""牛仔褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""丹寧"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季"", ""冬季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+wideT001.jpg,ollama_chain,63.29,N/A,N/A,N/A,N/A,solid,short sleeve,crew neck,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""yellow"", ""neckline"": ""crew neck"", ""sleeve_length"": ""short sleeve"", ""pattern"": ""solid"", ""style"": ""casual"", ""details"": ""plain"", ""material"": ""fabric""}"
+wideT001.jpg,gemini_api,17.36,上衣,T恤,黃色,,素色,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 復古","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""黃色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""約會"", ""旅行度假"", ""居家""]
+}"
+POLO005.jpg,ollama_chain,65.95,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""polo shirt"",
+  ""sleeves"": ""short"",
+  ""collar"": true,
+  ""buttons"": true,
+  ""color"": ""beige"",
+  ""pattern"": ""none"",
+  ""logo"": ""embroidered"",
+  ""logo_location"": ""left chest"",
+  ""style"": ""casual"",
+  ""suitable_occasions"": [
+    ""work"",
+    ""leisure""
+  ]
+}"
+POLO005.jpg,gemini_api,14.21,上衣,Polo衫,卡其色,"紅色, 白色, 黑色",素色,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""Polo衫"",
+  ""main_color"": ""卡其色"",
+  ""secondary_colors"": [
+    ""紅色"",
+    ""白色"",
+    ""黑色""
+  ],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""夏季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""商務休閒"",
+    ""簡約""
+  ],
+  ""occasion_tags"": [
+    ""上班通勤"",
+    ""約會"",
+    ""旅行度假""
+  ]
+}"
+pants005.jpg,ollama_chain,61.76,N/A,N/A,N/A,N/A,solid,N/A,N/A,straight leg,N/A,N/A,N/A,N/A,"{""product_type"": ""trousers"", ""gender"": ""men"", ""color"": ""light gray/beige"", ""pattern"": ""solid"", ""style"": ""classic"", ""fit"": ""straight leg"", ""front_design"": ""flat front"", ""material_description"": ""heathered"", ""suitable_for"": [""business"", ""formal occasions""]}"
+pants005.jpg,gemini_api,12.69,下著,西裝褲,灰色,白色,格紋,不適用,不適用,常規,聚酯纖維,"春季, 秋季","商務休閒, 日常休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""西裝褲"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""聚酯纖維"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""商務休閒"", ""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+cottonT002.jpg,ollama_chain,60.13,N/A,N/A,N/A,N/A,plain,short sleeve,crew neck,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""yellow"", ""neckline"": ""crew neck"", ""sleeve_length"": ""short sleeve"", ""pattern"": ""plain"", ""fabric_weight"": ""lightweight"", ""style"": ""casual"", ""features"": []}"
+cottonT002.jpg,gemini_api,17.53,上衣,T恤,黃色,,素色,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""黃色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+shirt005.jpg,ollama_chain,65.94,N/A,shirt,N/A,N/A,plaid,long sleeve,N/A,N/A,N/A,N/A,N/A,N/A,"{""category"": ""top"", ""sub_category"": ""shirt"", ""style"": ""casual"", ""pattern"": ""plaid"", ""color"": ""blue"", ""secondary_color"": ""white"", ""sleeve_length"": ""long sleeve"", ""closure_type"": ""button-up"", ""collar_style"": ""buttoned"", ""pockets"": ""none"", ""suitable_occasion"": ""smart-casual""}"
+shirt005.jpg,gemini_api,15.56,上衣,襯衫,藍色,白色,格紋,長袖,Polo領,常規,棉質,"春季, 秋季, 冬季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [""白色""],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""秋季"", ""冬季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+cottonT009.jpg,ollama_chain,66.85,N/A,t-shirt,N/A,N/A,striped,short,round,N/A,N/A,N/A,N/A,N/A,"{""category"": ""top"", ""sub_category"": ""t-shirt"", ""color"": ""orange"", ""pattern"": ""striped"", ""sleeve_length"": ""short"", ""neckline"": ""round"", ""fabric"": ""cotton"", ""style"": ""classic""}"
+cottonT009.jpg,gemini_api,12.60,上衣,T恤,白色,"橘色, 藍色",條紋,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 復古","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""白色"",
+  ""secondary_colors"": [""橘色"", ""藍色""],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""復古""],
+  ""occasion_tags"": [""約會"", ""旅行度假"", ""居家""]
+}"
+cottonT001.jpg,ollama_chain,58.42,N/A,N/A,N/A,N/A,plain,short sleeve,crew neck,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""color"": ""white"", ""neckline"": ""crew neck"", ""sleeve_length"": ""short sleeve"", ""pattern"": ""plain"", ""fabric"": ""lightweight"", ""style"": ""classic"", ""details"": ""monochromatic""}"
+cottonT001.jpg,gemini_api,25.04,上衣,T恤,灰色,,素色,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 運動機能","上班通勤, 約會, 戶外運動, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""夏季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""簡約"",
+    ""運動機能""
+  ],
+  ""occasion_tags"": [
+    ""上班通勤"",
+    ""約會"",
+    ""戶外運動"",
+    ""旅行度假"",
+    ""居家""
+  ]
+}"
+jeans004.jpg,ollama_chain,61.21,N/A,N/A,N/A,N/A,none,N/A,N/A,slim,N/A,N/A,N/A,N/A,"{""product_type"": ""jeans"", ""color"": ""blue"", ""material"": ""denim"", ""style"": ""straight-cut"", ""fit"": ""slim"", ""pocket_style"": ""five-pocket"", ""details"": [""contrasting waistband"", ""coin pockets""], ""pattern"": ""none"", ""background"": ""black""}"
+jeans004.jpg,gemini_api,14.43,下著,牛仔褲,藍色,,素色,不適用,不適用,常規,丹寧,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""牛仔褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""丹寧"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假"", ""居家""]
+}"
+cottonhat002.jpg,ollama_chain,58.50,N/A,N/A,N/A,N/A,none,N/A,N/A,relaxed,N/A,N/A,N/A,N/A,"{""product_type"": ""hoodie"", ""color"": ""gray"", ""features"": [""drawstring hood"", ""front pocket""], ""fabric"": ""cotton blend"", ""fit"": ""relaxed"", ""pattern"": ""none"", ""style"": ""casual"", ""fashion_style"": ""streetwear""}"
+cottonhat002.jpg,gemini_api,14.31,上衣,帽T,灰色,白色,素色,五分袖,連帽,寬鬆,棉質,"春季, 夏季, 秋季","日常休閒, 街頭潮流, 簡約","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""帽T"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [
+    ""白色""
+  ],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""五分袖"",
+  ""neckline"": ""連帽"",
+  ""fit"": ""寬鬆"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""夏季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""街頭潮流"",
+    ""簡約""
+  ],
+  ""occasion_tags"": [
+    ""約會"",
+    ""旅行度假"",
+    ""居家""
+  ]
+}"
+cottonT005.jpg,ollama_chain,57.90,N/A,N/A,N/A,blue,striped,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""t-shirt"", ""sleeves"": ""short"", ""pattern"": ""striped"", ""pattern_direction"": ""horizontal"", ""primary_color"": ""white"", ""secondary_colors"": [""blue""], ""style"": ""casual"", ""graphics"": ""none""}"
+cottonT005.jpg,gemini_api,14.20,上衣,T恤,藍色,白色,條紋,短袖,圓領,寬鬆,棉質,"春季, 夏季, 秋季","日常休閒, 街頭潮流, 簡約","約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""T恤"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [
+    ""白色""
+  ],
+  ""pattern"": ""條紋"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""寬鬆"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""夏季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""街頭潮流"",
+    ""簡約""
+  ],
+  ""occasion_tags"": [
+    ""約會"",
+    ""旅行度假"",
+    ""居家""
+  ]
+}"
+shorts002.jpg,ollama_chain,54.99,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""shorts"", ""style"": [""casual"", ""sporty""], ""material"": ""denim"", ""color"": ""blue"", ""wash"": ""faded"", ""design"": ""plain"", ""features"": [""high waistband"", ""distressed look"", ""stretchy fabric""]}"
+shorts002.jpg,gemini_api,14.61,下著,牛仔短褲,藍色,黑色,素色,不適用,不適用,寬鬆,丹寧,"夏季, 春季","日常休閒, 街頭潮流, 簡約","旅行度假, 居家, 戶外運動","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""牛仔短褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [""黑色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""寬鬆"",
+  ""material_guess"": ""丹寧"",
+  ""suitable_seasons"": [""夏季"", ""春季""],
+  ""style_tags"": [""日常休閒"", ""街頭潮流"", ""簡約""],
+  ""occasion_tags"": [""旅行度假"", ""居家"", ""戶外運動""]
+}"
+shirt003.jpg,ollama_chain,64.74,N/A,shirt,N/A,N/A,plaid,long sleeve,N/A,N/A,N/A,N/A,N/A,N/A,"{""category"": ""top"", ""sub_category"": ""shirt"", ""style"": ""casual"", ""pattern"": ""plaid"", ""color"": ""blue"", ""secondary_color"": ""white"", ""sleeve_length"": ""long sleeve"", ""closure_type"": ""button-up"", ""collar_style"": ""buttoned"", ""pockets"": ""none"", ""suitable_occasion"": ""smart-casual""}"
+shirt003.jpg,gemini_api,16.31,上衣,襯衫,藍色,白色,格紋,長袖,Polo領,常規,棉質,"春季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [
+    ""白色""
+  ],
+  ""pattern"": ""格紋"",
+  ""sleeve_length"": ""長袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""簡約""
+  ],
+  ""occasion_tags"": [
+    ""上班通勤"",
+    ""約會"",
+    ""旅行度假"",
+    ""居家""
+  ]
+}"
+jeans005.jpg,ollama_chain,79.51,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""pants"",
+  ""category"": ""clothing"",
+  ""subcategory"": ""bottoms"",
+  ""color"": ""blue"",
+  ""color_details"": [
+    ""deep blue"",
+    ""lighter shade on inner thigh area"",
+    ""lighter shade on pockets""
+  ],
+  ""style"": ""casual"",
+  ""material"": ""denim"",
+  ""features"": [
+    ""two pockets per leg""
+  ],
+  ""pattern"": ""none"",
+  ""description_keywords"": [
+    ""denim"",
+    ""everyday wear"",
+    ""relaxed work environment"",
+    ""durability""
+  ]
+}"
+jeans005.jpg,gemini_api,15.23,下著,工裝褲,藍色,深藍色,素色,不適用,不適用,常規,棉質,"春季, 秋季","日常休閒, 街頭潮流","旅行度假, 居家","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""工裝褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [""深藍色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""街頭潮流""],
+  ""occasion_tags"": [""旅行度假"", ""居家""]
+}"
+cottonhat001.jpg,ollama_chain,75.80,N/A,N/A,N/A,N/A,solid,N/A,N/A,relaxed,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""hooded sweatshirt"",
+  ""style"": ""casual, sporty"",
+  ""color"": ""gray"",
+  ""color_description"": ""heather gray with darker gray accents"",
+  ""pattern"": ""solid"",
+  ""details"": [
+    ""vest-style front panel"",
+    ""hood and sleeves have a slightly lighter shade (typical for heathered fabric)""
+  ],
+  ""fit"": ""relaxed"",
+  ""material"": ""unknown"",
+  ""additional_colors"": [],
+  ""image_description"": ""hooded sweatshirt with a vest-style front panel, heather gray color with darker gray accents""
+}"
+cottonhat001.jpg,gemini_api,27.56,上衣,連帽背心,灰色,,素色,無袖,連帽,常規,棉質,"春季, 夏季, 秋季","日常休閒, 街頭潮流, 運動機能, 簡約","戶外運動, 旅行度假, 居家","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""連帽背心"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""無袖"",
+  ""neckline"": ""連帽"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""街頭潮流"", ""運動機能"", ""簡約""],
+  ""occasion_tags"": [""戶外運動"", ""旅行度假"", ""居家""]
+}"
+shorts001.jpg,ollama_chain,60.40,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""shorts"", ""style"": ""casual"", ""material"": ""denim"", ""color"": ""blue"", ""features"": [""distressed"", ""button closure"", ""lightweight""], ""pattern"": ""none"", ""embellishments"": ""none"", ""closure_type"": ""button"", ""suitable_for"": [""casual wear"", ""warm weather""]}"
+shorts001.jpg,gemini_api,18.91,下著,牛仔短褲,藍色,,素色,不適用,不適用,常規,丹寧,"春季, 夏季","日常休閒, 簡約","旅行度假, 居家, 約會","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""牛仔短褲"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""丹寧"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""簡約""],
+  ""occasion_tags"": [""旅行度假"", ""居家"", ""約會""]
+}"
+shirt006.jpg,ollama_chain,57.92,N/A,N/A,N/A,N/A,none,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{""product_type"": ""shirt"", ""color"": ""navy blue"", ""sleeves"": ""short"", ""closure_type"": ""button-up"", ""collar_type"": ""collar"", ""pockets"": ""two chest pockets"", ""pattern"": ""none"", ""fabric"": [""cotton"", ""cotton blend""], ""style"": [""casual"", ""structured""], ""suitable_for"": [""formal"", ""informal""]}"
+shirt006.jpg,gemini_api,21.53,上衣,襯衫,藍色,,素色,短袖,圓領,常規,棉質,"春季, 夏季","日常休閒, 簡約, 商務休閒","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""襯衫"",
+  ""main_color"": ""藍色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""圓領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季""],
+  ""style_tags"": [""日常休閒"", ""簡約"", ""商務休閒""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"
+pants007.jpg,ollama_chain,68.87,N/A,N/A,N/A,N/A,none,N/A,N/A,tailored,N/A,N/A,N/A,N/A,"{""product_type"": ""trousers"", ""color"": ""beige"", ""style"": ""straight cut"", ""fabric"": [""cotton"", ""cotton blend""], ""closure_type"": ""buttoned"", ""pockets"": ""two visible front pockets"", ""pattern"": ""none"", ""embellishment"": ""none"", ""fit"": ""tailored"", ""description"": ""Beige trousers with a straight cut design. Made from a smooth fabric, possibly cotton or a cotton blend, with a buttoned front closure and two visible front pockets. Simple, clean design.""}"
+pants007.jpg,gemini_api,24.99,下著,西裝褲,卡其色,,素色,不適用,不適用,常規,聚酯纖維,"春季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""下著"",
+  ""sub_category"": ""西裝褲"",
+  ""main_color"": ""卡其色"",
+  ""secondary_colors"": [],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""不適用"",
+  ""neckline"": ""不適用"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""聚酯纖維"",
+  ""suitable_seasons"": [
+    ""春季"",
+    ""秋季""
+  ],
+  ""style_tags"": [
+    ""日常休閒"",
+    ""商務休閒"",
+    ""簡約""
+  ],
+  ""occasion_tags"": [
+    ""上班通勤"",
+    ""約會"",
+    ""旅行度假""
+  ]
+}"
+POLO006.jpg,ollama_chain,66.97,N/A,N/A,N/A,N/A,solid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{
+  ""product_type"": ""polo shirt"",
+  ""sleeves"": ""short"",
+  ""color"": ""heather gray"",
+  ""pattern"": ""solid"",
+  ""texture"": ""subtle mottled"",
+  ""details"": [
+    ""embroidered logo on left chest"",
+    ""classic polo collar with two buttons""
+  ],
+  ""logo_colors"": [
+    ""yellow"",
+    ""white""
+  ],
+  ""style"": ""casual, smart-casual""
+}"
+POLO006.jpg,gemini_api,14.31,上衣,Polo衫,灰色,"黃色, 白色",素色,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假","{
+  ""primary_category"": ""上衣"",
+  ""sub_category"": ""Polo衫"",
+  ""main_color"": ""灰色"",
+  ""secondary_colors"": [""黃色"", ""白色""],
+  ""pattern"": ""素色"",
+  ""sleeve_length"": ""短袖"",
+  ""neckline"": ""Polo領"",
+  ""fit"": ""常規"",
+  ""material_guess"": ""棉質"",
+  ""suitable_seasons"": [""春季"", ""夏季"", ""秋季""],
+  ""style_tags"": [""日常休閒"", ""商務休閒"", ""簡約""],
+  ""occasion_tags"": [""上班通勤"", ""約會"", ""旅行度假""]
+}"

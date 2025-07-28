@@ -1,0 +1,7 @@
+original_image_name,processed_image_path,processing_time_seconds,status,error_message,primary_category,sub_category,main_color,secondary_colors,pattern,sleeve_length,neckline,fit,material_guess,suitable_seasons,style_tags,occasion_tags
+shirt004.jpg,./my_clothes_processed/shirt004_processed.png,23.58,SUCCESS,,上衣,襯衫,藍色,"白色, 紅色",格紋,長袖,Polo領,常規,棉質,"春季, 秋季, 冬季","日常休閒, 商務休閒, 復古","上班通勤, 約會, 旅行度假, 居家"
+pants001.jpg,./my_clothes_processed/pants001_processed.png,368.19,SUCCESS,,下著,休閒褲,卡其色,,素色,不適用,不適用,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約","上班通勤, 約會, 旅行度假, 居家"
+POLO002.jpg,./my_clothes_processed/POLO002_processed.png,12.87,SUCCESS,,上衣,Polo衫,白色,"黑色, 藍色",素色,短袖,Polo領,常規,棉質,"春季, 夏季","日常休閒, 商務休閒, 運動機能, 簡約","上班通勤, 約會, 戶外運動, 旅行度假"
+shirt008.jpg,./my_clothes_processed/shirt008_processed.png,11.40,SUCCESS,,上衣,襯衫,白色,,素色,短袖,Polo領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 商務休閒, 簡約","上班通勤, 約會, 旅行度假"
+cottonT006.jpg,./my_clothes_processed/cottonT006_processed.png,16.38,SUCCESS,,上衣,T恤,灰色,白色,條紋,短袖,圓領,常規,棉質,"春季, 夏季, 秋季","日常休閒, 簡約","旅行度假, 居家, 約會"
+cottonT005.jpg,./my_clothes_processed/cottonT005_processed.png,12.86,SUCCESS,,上衣,T恤,藍色,白色,條紋,短袖,圓領,寬鬆,棉質,"春季, 夏季, 秋季","日常休閒, 簡約, 街頭潮流","約會, 旅行度假, 居家"
