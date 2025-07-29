@@ -1,3 +1,4 @@
+import io
 import os
 import json
 import csv
@@ -7,7 +8,6 @@ import google.generativeai as genai
 from elasticsearch import Elasticsearch
 from rembg import remove
 from PIL import Image
-import io
 
 # --- 1. 設定與初始化 ---
 load_dotenv()
